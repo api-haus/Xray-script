@@ -4,15 +4,13 @@
     "port": 443,
     "privateKey": "xray x25519 Private key",
     "publicKey": "xray x25519 Public key",
-    "dest": "learn.microsoft.com",
+    "dest": "rutube.ru",
     "serverNames": {
-      "learn.microsoft.com": [
-        "learn.microsoft.com",
-        "www.learn.microsoft.com"
+      "rutube.ru": [
+        "rutube.ru"
       ],
-      "www.apple.com": [
-        "www.apple.com",
-        "images.apple.com"
+      "yandex.cloud": [
+        "yandex.cloud"
       ],
       "music.apple.com": [
         "music.apple.com"
@@ -93,7 +91,7 @@
   },
   "nginx": {
     "version": "1.22.1",
-    "domain": "example.com",
+    "domain": "rutube.ru",
     "openssl": "3.1.0"
   },
   "cloudreve": {

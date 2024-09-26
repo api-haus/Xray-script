@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 if [ $# -eq 0 ]; then
-  echo "Please enter the zxcvos xray script configuration dirctory path."
+  echo "Please enter the api-haus xray script configuration dirctory path."
   exit 1
 fi
 

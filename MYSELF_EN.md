@@ -83,13 +83,13 @@ The drawback is that compilation takes a long time.
 * wget
 
   ```sh
-  wget --no-check-certificate -O ${HOME}/Xray-script.sh https://raw.githubusercontent.com/zxcvos/Xray-script/main/myself.sh
+  wget --no-check-certificate -O ${HOME}/Xray-script.sh https://raw.githubusercontent.com/api-haus/Xray-script/main/myself.sh
   ```
 
 * curl
 
   ```sh
-  curl -fsSL -o ${HOME}/Xray-script.sh https://raw.githubusercontent.com/zxcvos/Xray-script/main/myself.sh
+  curl -fsSL -o ${HOME}/Xray-script.sh https://raw.githubusercontent.com/api-haus/Xray-script/main/myself.sh
   ```
 
 ### 2. Execute the Script
@@ -130,7 +130,7 @@ bash ${HOME}/Xray-script.sh
 
 ## Installation Paths
 
-**Xray-script:** `/usr/local/etc/zxcvos_xray_script`
+**Xray-script:** `/usr/local/etc/api-haus_xray_script`
 
 **Nginx:** `/usr/local/nginx`
 
